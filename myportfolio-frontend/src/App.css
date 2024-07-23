@@ -1,0 +1,7 @@
+/* Add this to your App.css or a new CSS file */
+@keyframes shake {
+  0% { transform: translateX(-5px); }
+  50% { transform: translateX(5px); }
+  100% { transform: translateX(-5px); }
+}
+
